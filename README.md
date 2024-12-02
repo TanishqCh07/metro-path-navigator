@@ -23,7 +23,7 @@ The idea is implemented using **Graph** and **Heap** data structures:
 - **Graph**: Represents metro stations and connections.
 - **Heap**: Optimizes the shortest path algorithm.
 
-🚀 **Requirements** 🚀
+🚀 **Requirements** 🚀               
 - **IDE**: You can run the project on any IDE like **Eclipse**, **NetBeans**, or **VSCode**.
 - **Java Knowledge**: You’ll need some basic understanding of **Java** programming, especially data structures.
 - **Optional**: Knowledge of the **Java Collection Framework** will make things easier. If you are unfamiliar, check out [GeeksforGeeks](https://www.geeksforgeeks.org/collections-in-java-2/) to get started!
