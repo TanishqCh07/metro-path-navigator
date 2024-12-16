@@ -2,7 +2,7 @@
 
 🎉 Hello there! I’m excited to present **Metro App**, a simple yet powerful **Java project** that demonstrates the use of **data structures** to solve a real-world problem 🚇. This project allows users to input the source and destination metro stations and displays both the **fare** and the **shortest route** between them. The application also features a metro map to enhance commuters' navigation experience 🌍.
     
-🚀 **Project Features Overview** 🚀
+🚀 **Project Features Overview** 🚀 
 
 🌐 **Metro App Functionality** 🌐
 - **Shortest Path Calculation**: By using different algorithms like **Dijkstra**, **BFS (Breadth-First Search)**, and **DFS (Depth-First Search)**, the shortest metro route between the source and destination stations is determined.
